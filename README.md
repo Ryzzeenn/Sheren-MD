@@ -1,12 +1,13 @@
-# Sheren MD
 <p align="center">
-<img src="https://telegra.ph/file/a6fa6e7d9f8b8ab7ee501.jpg" alt="Shiren MD" width="250"/>
+<img src="https://tinyurl.com/227djuad" alt="Shiren MD" width="200"/>
 
 
 </p>
 <p align="center">
 <a href="#"><img title="Sheren MD" src="https://img.shields.io/badge/Recode by-Shinz-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
+<p align="center">
+<a href="#"><img title="Sheren MD" src="https://img.shields.io/badge/Sheren-Md-red?colorA=#f3f1ed&colorB=%cdc4b3&style=for-the-badge"></a>
 <p align="center">
 </p>
 <p align="center">
