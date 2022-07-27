@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://tinyurl.com/227djuad" alt="Shiren MD" width="200"/>
+<img src="https://telegra.ph/file/022423edb9dbefcfc7a99.jpg" alt="Shiren MD" width="200"/>
 
 
 </p>
