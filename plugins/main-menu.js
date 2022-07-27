@@ -152,7 +152,7 @@ let handler = async (m, { conn, groupMetadata, usedPrefix: _p, __dirname }) => {
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     //    
 
-conn.send2ButtonDoc(m.chat, text.trim(), wm, 'Dashboard', '.dashboard', 'Owner', '.owner', m, global.fakeegc)
+conn.send2ButtonDoc(m.chat, text.trim(), wm, 'Dashboard', '.dashboard', 'Owner', '.owner', m, fakeegc)
                 //
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu sedang error', m)
